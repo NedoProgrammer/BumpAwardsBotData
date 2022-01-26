@@ -1,0 +1,7 @@
+<SupportedBot>
+    <Name>DisBoard</Name>
+    <Id>302050872383242240</Id>
+    <Timeout>120</Timeout>
+    <SuccessTrigger>TODO</SuccessTrigger>
+    <FailTrigger>TODO</FailTrigger>
+</SupportedBot>
